@@ -1,6 +1,6 @@
 # Privacy Policy for Korean Pronunciation Mirror
 
-**Effective Date: April 08, 2026**
+**Effective Date: April 10, 2026**
 
 'Korean Pronunciation Mirror' (hereinafter referred to as the 'App') values your privacy and complies with relevant laws and regulations to protect users' personal information.
 
@@ -11,10 +11,13 @@ The App prioritizes user privacy and does not require any membership or registra
 
 *   **Collected Items**: None
 *   **Required Permissions**: 
-    *   **Microphone**: Used solely to receive the user's Korean pronunciation and provide real-time feedback via the on-device engine.
-*   **On-Device Processing**:
-    *   Voice data is processed locally on the device in real-time. It is only briefly referenced in memory for analysis and is never stored as a file.
-    *   The data is discarded immediately after analysis and is never transmitted to external servers or stored permanently on the device.
+    *   **Microphone**: Used solely to receive the user's Korean pronunciation and provide real-time feedback.
+*   **Processing of Voice Data**:
+    *   This app uses speech recognition services provided by the Android system (e.g., Google Speech Services) to provide speech recognition features.
+    *   **Data Processed**: User's voice data
+    *   **Purpose of Processing**: To provide speech recognition and text conversion features
+    *   **Entity Receiving and Processing Data**: Google services (Google LLC) installed on the user's device
+    *   **Retention and Use Period**: Voice data is not stored in this app after the recognition process is completed, and is handled in accordance with the policies of the system service.
 
 ### 2. Retention and Use Period
 Since the App does not collect or store personal information on servers, there is no retention period. Cached data on the device is automatically destroyed upon app deletion according to the OS procedures.
@@ -26,13 +29,13 @@ The App does not provide user information to third parties nor entrusts data pro
 Users can withdraw or deny app permissions (such as the microphone) at any time through the device settings. Denying permissions may restrict certain features within the App.
 
 ### 5. Technical and Administrative Protection Measures
-*   **Local Processing**: All core data processing is performed within the user's device (On-Device), effectively preventing data leaks during transmission.
+*   **Secure Processing**: Voice data is securely processed through the Android system's official speech recognition services.
 *   **Minimal Permissions**: We do not request unnecessary permissions beyond those essential for providing the service (e.g., Microphone).
 
 ### 6. Contact Information
 For privacy-related inquiries, please contact:
 *   **Responsible Officer**: Bong-rae Park
-*   **Contact (Email)**: hiclone@hiclone.net
+*   **Contact (Email)**: kdsim@hiclone.net
 
 ### 7. Remedies for Infringement of Rights
 Users may apply for dispute resolution or consultation regarding personal information infringement to the following organizations (these are independent of the App):
